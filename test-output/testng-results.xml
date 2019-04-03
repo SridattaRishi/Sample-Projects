@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="pCloudy Suite" duration-ms="87764" started-at="2019-03-28T12:07:08Z" finished-at="2019-03-28T12:08:35Z">
+    <groups>
+    </groups>
+    <test name="test_Lenovo Phab2 6.0.0" duration-ms="57827" started-at="2019-03-28T12:07:08Z" finished-at="2019-03-28T12:08:05Z">
+      <class name="com.pcloudy.testng.TestClass1">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@1a0dcaa]" name="beforeTest" is-config="true" duration-ms="12" started-at="2019-03-28T17:37:08Z" finished-at="2019-03-28T17:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@1a0dcaa]" name="beforeClass" is-config="true" duration-ms="22197" started-at="2019-03-28T17:37:08Z" finished-at="2019-03-28T17:37:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@1a0dcaa]" name="test1" duration-ms="4490" started-at="2019-03-28T17:37:30Z" finished-at="2019-03-28T17:37:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@1a0dcaa]" name="afterClass" is-config="true" duration-ms="4294" started-at="2019-03-28T17:37:34Z" finished-at="2019-03-28T17:37:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@1a0dcaa]" name="afterTest" is-config="true" duration-ms="3764" started-at="2019-03-28T17:38:02Z" finished-at="2019-03-28T17:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.pcloudy.testng.TestClass1 -->
+      <class name="com.pcloudy.testng.TestClass2">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@3bd40a57]" name="beforeClass" is-config="true" duration-ms="14132" started-at="2019-03-28T17:37:39Z" finished-at="2019-03-28T17:37:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@3bd40a57]" name="test2" duration-ms="4402" started-at="2019-03-28T17:37:53Z" finished-at="2019-03-28T17:37:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@3bd40a57]" name="afterClass" is-config="true" duration-ms="4520" started-at="2019-03-28T17:37:57Z" finished-at="2019-03-28T17:38:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lenovo Phab2 6.0.0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pcloudy.testng.TestClass2 -->
+    </test> <!-- test_Lenovo Phab2 6.0.0 -->
+    <test name="test_Samsung Galaxy A7 6.0.1" duration-ms="87764" started-at="2019-03-28T12:07:08Z" finished-at="2019-03-28T12:08:35Z">
+      <class name="com.pcloudy.testng.TestClass1">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@657c8ad9]" name="beforeTest" is-config="true" duration-ms="13" started-at="2019-03-28T17:37:08Z" finished-at="2019-03-28T17:37:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@657c8ad9]" name="beforeClass" is-config="true" duration-ms="42085" started-at="2019-03-28T17:37:08Z" finished-at="2019-03-28T17:37:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@657c8ad9]" name="test1" duration-ms="5117" started-at="2019-03-28T17:37:50Z" finished-at="2019-03-28T17:37:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="afterClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@657c8ad9]" name="afterClass" is-config="true" duration-ms="4754" started-at="2019-03-28T17:37:55Z" finished-at="2019-03-28T17:38:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass1@657c8ad9]" name="afterTest" is-config="true" duration-ms="4952" started-at="2019-03-28T17:38:30Z" finished-at="2019-03-28T17:38:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.pcloudy.testng.TestClass1 -->
+      <class name="com.pcloudy.testng.TestClass2">
+        <test-method status="PASS" signature="beforeClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@436a4e4b]" name="beforeClass" is-config="true" duration-ms="20738" started-at="2019-03-28T17:38:00Z" finished-at="2019-03-28T17:38:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="test2(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@436a4e4b]" name="test2" duration-ms="5244" started-at="2019-03-28T17:38:20Z" finished-at="2019-03-28T17:38:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method status="PASS" signature="afterClass(java.lang.String)[pri:0, instance:com.pcloudy.testng.TestClass2@436a4e4b]" name="afterClass" is-config="true" duration-ms="4848" started-at="2019-03-28T17:38:25Z" finished-at="2019-03-28T17:38:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Samsung Galaxy A7 6.0.1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.pcloudy.testng.TestClass2 -->
+    </test> <!-- test_Samsung Galaxy A7 6.0.1 -->
+  </suite> <!-- pCloudy Suite -->
+</testng-results>

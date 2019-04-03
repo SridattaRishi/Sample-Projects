@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" configfailurepolicy="continue" name="pCloudy Suite" parallel="tests">
+  <test name="test_Samsung Galaxy A7 6.0.1">
+    <parameter name="myDeviceContext" value="Samsung Galaxy A7 6.0.1"/>
+    <classes>
+      <class name="com.pcloudy.testng.TestClass1"/>
+      <class name="com.pcloudy.testng.TestClass2"/>
+    </classes>
+  </test> <!-- test_Samsung Galaxy A7 6.0.1 -->
+  <test name="test_Lenovo Phab2 6.0.0">
+    <parameter name="myDeviceContext" value="Lenovo Phab2 6.0.0"/>
+    <classes>
+      <class name="com.pcloudy.testng.TestClass1"/>
+      <class name="com.pcloudy.testng.TestClass2"/>
+    </classes>
+  </test> <!-- test_Lenovo Phab2 6.0.0 -->
+</suite> <!-- pCloudy Suite -->
